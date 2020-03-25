@@ -1,0 +1,4 @@
+#Sat Sep 07 13:25:07 IST 2019
+base.0=C\:\\Users\\JYOTSNA\\AndroidStudioProjects\\Women-Safety-App-Android-Project-Source-Code-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
